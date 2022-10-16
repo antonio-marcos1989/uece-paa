@@ -53,9 +53,6 @@ public class Main {
             conj.addAll(conjA);
             conj.addAll(conjB);
 
-            // Ordenando elementos
-            Collections.sort(conj);
-
             System.out.println("Conjunto A#B: \n"+conj.toString());
         }
     }
