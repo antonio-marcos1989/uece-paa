@@ -52,6 +52,7 @@ public class Main {
             // Criando conjunto dos diferentes elementos
             conj.addAll(conjA);
             conj.addAll(conjB);
+            Collections.sort(conj);
 
             System.out.println("Conjunto A#B: \n"+conj.toString());
         }
