@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
 
         List<Integer> conjA  = new ArrayList<>(Arrays.asList(new Integer[]{1,2,3,4}));
-        List<Integer> conjB  = new ArrayList<>(Arrays.asList(new Integer[]{1,2,3,4,5,6,7}));
+        List<Integer> conjB  = new ArrayList<>(Arrays.asList(new Integer[]{1,2,3,4,5,6,7,8,9}));
 
         List<Integer> conjAB = new ArrayList<>();
         List<Integer> conj   = new ArrayList<>();
